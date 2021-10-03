@@ -7,3 +7,11 @@ pycodestyle==2.7.0
 pyflakes==2.3.1
 requests==2.26.0
 urllib3==1.26.7
+
+py == 1.8.2
+pluggy<2.0,==0.12
+attr==19.2.0
+toml
+iniconfig
+pyparsing==2.0.2
+pytest==6.2.5
