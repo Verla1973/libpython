@@ -15,3 +15,7 @@ toml
 iniconfig
 pyparsing==2.0.2
 pytest==6.2.5
+
+#coverage
+coverage==6.0
+pytest-cov==2.12.1
