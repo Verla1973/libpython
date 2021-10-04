@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "==2021.5.30"
+charset-normalizer = "==2.0.6"
+idna = "==3.2"
+requests = "*"
+urllib3 = "==1.26.7"
+
+[dev-packages]
+pytest = "*"
+coverage = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+flake8 = "*"
+
+[requires]
+python_version = "3.8"
